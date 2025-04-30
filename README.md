@@ -76,7 +76,7 @@ A secure, modular authentication API built with FastAPI and PostgreSQL.
 
 ## 📬 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/lucasmilanezs)  
+- [LinkedIn](https://linkedin.com/in/lucasmilanezs)  
 - [Resume (EN - PDF)]()  
 
 ---
