@@ -56,4 +56,27 @@ with a clear view of the full stack.
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Highlight Project
+
+### [SecureAPI-Core](https://github.com/lucasmilanezs/SecureAPI-Core)  
+A secure, modular authentication API built with FastAPI and PostgreSQL.
+
+> Clean architecture • JWT authentication • Role-based access control • Alembic migrations
+
+→ [View the project](https://github.com/lucasmilanezs/SecureAPI-Core)
+
+---
+
+## 📬 Connect with Me
+
+- [LinkedIn]()  
+- [Resume (EN - PDF)]()  
+
+---
