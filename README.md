@@ -9,14 +9,12 @@ with a clear view of the full stack.
 
 ### 🧩 Languages
 
-**Primary:**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-
-**Also experienced with:**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,15 +31,11 @@ with a clear view of the full stack.
 ---
 
 ### ⚙️ Frameworks & Libraries
-
-**Primary:**
 <p>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SQLAlchemy-CEB02C?style=for-the-badge&logo=sqlalchemy&logoColor=black" />
 </p>
-
-**Also experienced with:**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   &nbsp;&nbsp;&nbsp;&nbsp;
