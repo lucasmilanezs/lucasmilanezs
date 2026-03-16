@@ -5,9 +5,9 @@ with a clear view of the full stack.
 
 ---
 
-## 🧠 Stack Overview
+## Stack Overview
 
-### 🧩 Languages
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,7 +29,7 @@ with a clear view of the full stack.
 
 ---
 
-### ⚙️ Frameworks & Libraries
+###  Frameworks & Libraries
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
@@ -44,7 +44,7 @@ with a clear view of the full stack.
 
 ---
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -63,20 +63,7 @@ with a clear view of the full stack.
 
 ---
 
-## 🚀 Highlight Project
-
-### [SecureAPI-Core](https://github.com/lucasmilanezs/SecureAPI-Core)  
-A secure, modular authentication API built with FastAPI and PostgreSQL.
-
-> Clean architecture • JWT authentication • Role-based access control • Alembic migrations
-
-→ [View the project](https://github.com/lucasmilanezs/SecureAPI-Core)
-
----
-
 ## 📬 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/lucasmilanezs)  
-- [Resume (EN - PDF)]()  
-
 ---
